@@ -1,2 +1,2 @@
 # Bootstrap-AppSalesWeb
-AppSalesWeb using Bootstrap
+App Sales Website using Bootstrap
